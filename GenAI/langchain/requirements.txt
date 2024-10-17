@@ -13,3 +13,8 @@ sentence_transformers
 langchain_huggingface
 faiss-cpu
 chromadb
+langchain_groq
+langserve
+uvicorn
+sse-starlette
+fastapi
